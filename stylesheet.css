@@ -1,0 +1,47 @@
+body{
+  background-color:ghostwhite;
+}
+header {
+  width:100%;
+  color:white;
+  background-color:darkcyan;
+  text-align:center;
+  font-size:40px;
+  
+  
+}
+ img {
+  margin:auto;
+  width:300px;
+ 
+}
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} 
+.intro p {
+  font-style:italic;
+  font-size:30px;
+  margin:auto;
+  text-align:center;
+}
+.skills h1{
+  font-family:monospace;
+  font-size:30px;
+}
+ li {
+  font-size:28px;
+}
+footer{
+  width:100%;
+  background-color:lightslategrey;
+  color:white;
+  font-size:12px;
+}
+.left{
+  text-align:left;
+  font-size:21px;
+}
+
